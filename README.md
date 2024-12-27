@@ -80,7 +80,7 @@ Data preprocessing involved consolidating hand landmarks and corresponding phras
 
 ## Contributors
 
-- **Shashidhar Reddy (Yeshiva University)** (Yeshiva University) - [sainala@mail.yu.eu](mailto:sainala@mail.yu.eu)
+- **Shashidhar Reddy (Yeshiva University)** (Yeshiva University) - [sainala@mail.yu.edu](mailto:sainala@mail.yu.edu)
 - Sayed Raheel Hussain (Yeshiva University)
 - Reiyo (Yeshiva University)
 - Onkar Kunte (Yeshiva University)
